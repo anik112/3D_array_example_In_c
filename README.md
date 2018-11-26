@@ -15,8 +15,9 @@ their:
 
 
 * table[0][0] represent product details
-  like, table[0][0] containing product ID
-        table[0][1] containing product Qunt
-        table[0][2] containing product Price
+  like,
+  -> table[0][0] containing product ID
+  -> table[0][1] containing product Qunt
+  -> table[0][2] containing product Price
         
 * table[0][0][0-2] containing value
