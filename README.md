@@ -3,7 +3,7 @@ simple 3D array example using c language.
 
 # 3D array work like a categories for product.
 like i have some product in two categories 1: mobile, 2: cloth.
-int table[2][3][3];
+# int table[2][3][3];
 
 their:
 # => 1st array containing product categories.
